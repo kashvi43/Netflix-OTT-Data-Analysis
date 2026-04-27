@@ -112,7 +112,7 @@ recommend('The Dark Knight', n=5, same_type=True)
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOURUSERNAME/netflix-analysis.git
+git clone https://github.com/kashvi43/netflix-analysis.git
 cd netflix-analysis
 ```
 
